@@ -1,4 +1,5 @@
-﻿using api_lib.Models;
+﻿using api_lib.Data.Map;
+using api_lib.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace api_lib.Data
@@ -17,6 +18,9 @@ namespace api_lib.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.ApplyConfiguration(new LivroMap());
+            modelBuilder.ApplyConfiguration(new LocaçãoMap());
+
             base.OnModelCreating(modelBuilder);
         }
     }
