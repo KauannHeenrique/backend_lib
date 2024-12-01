@@ -1,30 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kauan\\source\\repos\\api_lib\\",
+  "WorkspaceRootPath": "C:\\Users\\thiag\\source\\repos\\backend_lib\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA8B1967-15F6-48A7-A02E-93472384A572}|api_lib\\api_lib.csproj|c:\\users\\kauan\\source\\repos\\api_lib\\api_lib\\migrations\\20241129164622_iniciandodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA8B1967-15F6-48A7-A02E-93472384A572}|api_lib\\api_lib.csproj|c:\\users\\thiag\\source\\repos\\backend_lib\\api_lib\\livroscontroller\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8B1967-15F6-48A7-A02E-93472384A572}|api_lib\\api_lib.csproj|solutionrelative:api_lib\\livroscontroller\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8B1967-15F6-48A7-A02E-93472384A572}|api_lib\\api_lib.csproj|c:\\users\\thiag\\source\\repos\\backend_lib\\api_lib\\migrations\\20241129164622_iniciandodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8B1967-15F6-48A7-A02E-93472384A572}|api_lib\\api_lib.csproj|solutionrelative:api_lib\\migrations\\20241129164622_iniciandodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA8B1967-15F6-48A7-A02E-93472384A572}|api_lib\\api_lib.csproj|c:\\users\\kauan\\source\\repos\\api_lib\\api_lib\\data\\sistemabibliotecadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8B1967-15F6-48A7-A02E-93472384A572}|api_lib\\api_lib.csproj|solutionrelative:api_lib\\data\\sistemabibliotecadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA8B1967-15F6-48A7-A02E-93472384A572}|api_lib\\api_lib.csproj|c:\\users\\kauan\\source\\repos\\api_lib\\api_lib\\data\\map\\livromap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8B1967-15F6-48A7-A02E-93472384A572}|api_lib\\api_lib.csproj|solutionrelative:api_lib\\data\\map\\livromap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA8B1967-15F6-48A7-A02E-93472384A572}|api_lib\\api_lib.csproj|c:\\users\\kauan\\source\\repos\\api_lib\\api_lib\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AA8B1967-15F6-48A7-A02E-93472384A572}|api_lib\\api_lib.csproj|solutionrelative:api_lib\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA8B1967-15F6-48A7-A02E-93472384A572}|api_lib\\api_lib.csproj|c:\\users\\kauan\\source\\repos\\api_lib\\api_lib\\data\\map\\loca\u00E7\u00E3omap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8B1967-15F6-48A7-A02E-93472384A572}|api_lib\\api_lib.csproj|solutionrelative:api_lib\\data\\map\\loca\u00E7\u00E3omap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA8B1967-15F6-48A7-A02E-93472384A572}|api_lib\\api_lib.csproj|c:\\users\\kauan\\source\\repos\\api_lib\\api_lib\\api_lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AA8B1967-15F6-48A7-A02E-93472384A572}|api_lib\\api_lib.csproj|solutionrelative:api_lib\\api_lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\kauan\\source\\repos\\api_lib\\api_lib\\appsettings.json",
-              "RelativeDocumentMoniker": "api_lib\\appsettings.json",
-              "ToolTip": "C:\\Users\\kauan\\source\\repos\\api_lib\\api_lib\\appsettings.json",
-              "RelativeToolTip": "api_lib\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-29T16:47:48.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20241129164622_IniciandoDB.cs",
-              "DocumentMoniker": "C:\\Users\\kauan\\source\\repos\\api_lib\\api_lib\\Migrations\\20241129164622_IniciandoDB.cs",
-              "RelativeDocumentMoniker": "api_lib\\Migrations\\20241129164622_IniciandoDB.cs",
-              "ToolTip": "C:\\Users\\kauan\\source\\repos\\api_lib\\api_lib\\Migrations\\20241129164622_IniciandoDB.cs",
-              "RelativeToolTip": "api_lib\\Migrations\\20241129164622_IniciandoDB.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Title": "LivrosController.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\backend_lib\\api_lib\\LivrosController\\LivrosController.cs",
+              "RelativeDocumentMoniker": "api_lib\\LivrosController\\LivrosController.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\backend_lib\\api_lib\\LivrosController\\LivrosController.cs",
+              "RelativeToolTip": "api_lib\\LivrosController\\LivrosController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:46:22.329Z",
+              "WhenOpened": "2024-12-01T21:10:04.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SistemaBibliotecaDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\kauan\\source\\repos\\api_lib\\api_lib\\Data\\SistemaBibliotecaDBContext.cs",
-              "RelativeDocumentMoniker": "api_lib\\Data\\SistemaBibliotecaDBContext.cs",
-              "ToolTip": "C:\\Users\\kauan\\source\\repos\\api_lib\\api_lib\\Data\\SistemaBibliotecaDBContext.cs",
-              "RelativeToolTip": "api_lib\\Data\\SistemaBibliotecaDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Title": "20241129164622_IniciandoDB.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\source\\repos\\backend_lib\\api_lib\\Migrations\\20241129164622_IniciandoDB.cs",
+              "RelativeDocumentMoniker": "api_lib\\Migrations\\20241129164622_IniciandoDB.cs",
+              "ToolTip": "C:\\Users\\thiag\\source\\repos\\backend_lib\\api_lib\\Migrations\\20241129164622_IniciandoDB.cs",
+              "RelativeToolTip": "api_lib\\Migrations\\20241129164622_IniciandoDB.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:40:25.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Loca\u00E7\u00E3oMap.cs",
-              "DocumentMoniker": "C:\\Users\\kauan\\source\\repos\\api_lib\\api_lib\\Data\\Map\\Loca\u00E7\u00E3oMap.cs",
-              "RelativeDocumentMoniker": "api_lib\\Data\\Map\\Loca\u00E7\u00E3oMap.cs",
-              "ToolTip": "C:\\Users\\kauan\\source\\repos\\api_lib\\api_lib\\Data\\Map\\Loca\u00E7\u00E3oMap.cs",
-              "RelativeToolTip": "api_lib\\Data\\Map\\Loca\u00E7\u00E3oMap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:37:06.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LivroMap.cs",
-              "DocumentMoniker": "C:\\Users\\kauan\\source\\repos\\api_lib\\api_lib\\Data\\Map\\LivroMap.cs",
-              "RelativeDocumentMoniker": "api_lib\\Data\\Map\\LivroMap.cs",
-              "ToolTip": "C:\\Users\\kauan\\source\\repos\\api_lib\\api_lib\\Data\\Map\\LivroMap.cs",
-              "RelativeToolTip": "api_lib\\Data\\Map\\LivroMap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T16:31:21.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "api_lib.csproj",
-              "DocumentMoniker": "C:\\Users\\kauan\\source\\repos\\api_lib\\api_lib\\api_lib.csproj",
-              "RelativeDocumentMoniker": "api_lib\\api_lib.csproj",
-              "ToolTip": "C:\\Users\\kauan\\source\\repos\\api_lib\\api_lib\\api_lib.csproj",
-              "RelativeToolTip": "api_lib\\api_lib.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-28T19:01:18.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T16:46:22.329Z"
             }
           ]
         }

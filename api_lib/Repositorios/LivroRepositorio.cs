@@ -66,7 +66,9 @@ namespace api_lib.Repositorios
             return true;
         }
 
-       
-
+        public Task<List<LivroModel>> BuscarPorId()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

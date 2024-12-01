@@ -13,5 +13,6 @@ namespace api_lib.Repositorios.Interfaces
         Task<LivroModel> AtualizarLivro(LivroModel livro, int id);
 
         Task<bool> ApagarLivro(int id);
+        Task<List<LivroModel>> BuscarPorId();
     }
 }
